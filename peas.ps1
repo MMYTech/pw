@@ -2,7 +2,8 @@
 .SYNOPSIS
   PowerShell adaptation of WinPEAS.exe / WinPeas.bat
 .DESCRIPTION
-  For the legal enumeration of windows based computers that you either own or are approved to run this script on
+  For the legal enumeration of windows based computers that you either own or are approved to run this script on 
+  MMY 2024
 .EXAMPLE
   # Default - normal operation with username/password audit in drives/registry
   .\winPeas.ps1
